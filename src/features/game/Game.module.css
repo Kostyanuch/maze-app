@@ -1,0 +1,21 @@
+.maze {
+  outline: none;
+}
+
+.greeting {
+  font-size: 12pt;
+  font-weight: bold;
+  color: chocolate;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.primary {
+  outline: none;
+  border: none;
+  background: blue;
+  border-radius: 5px;
+  padding: 5px 10px;
+  color: white;
+  font-weight: bold;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,1203 @@
+[
+  {
+    "class": "left-deadend",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": false  ,
+      "left": false
+    },
+    "settings": {
+      "isStart": true
+    }
+  },
+  {
+    "class": "horizontal-pipe",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "blocked-top-crossroad",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": true,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "horizontal-pipe",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "blocked-top-crossroad",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": true,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "horizontal-pipe",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "horizontal-pipe",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "left-down-corner",
+    "move": {
+      "top": false,
+      "right": false,
+      "bottom": true,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "right-down-corner",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": true,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "right-deadend",
+    "move": {
+      "top": false,
+      "right": false,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "right-down-corner",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": true,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "left-down-corner",
+    "move": {
+      "top": false,
+      "right": false,
+      "bottom": true,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "vertical-pipe",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": true,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "right-down-corner",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": true,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "left-up-corner",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "right-down-corner",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": true,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "left-down-corner",
+    "move": {
+      "top": false,
+      "right": false,
+      "bottom": true,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "blocked-left-crossroad",
+    "move": {
+      "top": true,
+      "right": true,
+      "bottom": true,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "left-up-corner",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "top-deadend",
+    "move": {
+      "top": false,
+      "right": false,
+      "bottom": true  ,
+      "left": false
+    },
+    "settings": {
+      "isStart": true
+    }
+  },
+  {
+    "class": "vertical-pipe",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": true,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "vertical-pipe",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": true,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "vertical-pipe",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": true,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "right-up-corner",
+    "move": {
+      "top": true,
+      "right": true,
+      "bottom": false,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "left-down-corner",
+    "move": {
+      "top": false,
+      "right": false,
+      "bottom": true,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "vertical-pipe",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": true,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "bottom-deadend",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": false  ,
+      "left": false
+    },
+    "settings": {
+      "isStart": true
+    }
+  },
+  {
+    "class": "right-up-corner",
+    "move": {
+      "top": true,
+      "right": true,
+      "bottom": false,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "horizontal-pipe",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "blocked-right-crossroad",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": true,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "vertical-pipe",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": true,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "right-up-corner",
+    "move": {
+      "top": true,
+      "right": true,
+      "bottom": false,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "blocked-bottom-crossroad",
+    "move": {
+      "top": true,
+      "right": true,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "horizontal-pipe",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "left-up-corner",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "blocked-left-crossroad",
+    "move": {
+      "top": true,
+      "right": true,
+      "bottom": true,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "horizontal-pipe",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "horizontal-pipe",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "left-down-corner",
+    "move": {
+      "top": false,
+      "right": false,
+      "bottom": true,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "vertical-pipe",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": true,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "blocked-left-crossroad",
+    "move": {
+      "top": true,
+      "right": true,
+      "bottom": true,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "horizontal-pipe",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "left-down-corner",
+    "move": {
+      "top": false,
+      "right": false,
+      "bottom": true,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "left-deadend",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": false  ,
+      "left": false
+    },
+    "settings": {
+      "isStart": true
+    }
+  },
+  {
+    "class": "blocked-top-crossroad",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": true,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "blocked-bottom-crossroad",
+    "move": {
+      "top": true,
+      "right": true,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "horizontal-pipe",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "left-down-corner",
+    "move": {
+      "top": false,
+      "right": false,
+      "bottom": true,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "vertical-pipe",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": true,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "vertical-pipe",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": true,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "right-up-corner",
+    "move": {
+      "top": true,
+      "right": true,
+      "bottom": false,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "left-down-corner",
+    "move": {
+      "top": false,
+      "right": false,
+      "bottom": true,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "right-up-corner",
+    "move": {
+      "top": true,
+      "right": true,
+      "bottom": false,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "left-down-corner",
+    "move": {
+      "top": false,
+      "right": false,
+      "bottom": true,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "right-up-corner",
+    "move": {
+      "top": true,
+      "right": true,
+      "bottom": false,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "left-down-corner",
+    "move": {
+      "top": false,
+      "right": false,
+      "bottom": true,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "right-down-corner",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": true,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "left-up-corner",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "vertical-pipe",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": true,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "vertical-pipe",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": true,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "right-down-corner",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": true,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "left-up-corner",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "top-deadend",
+    "move": {
+      "top": false,
+      "right": false,
+      "bottom": true  ,
+      "left": false
+    },
+    "settings": {
+      "isStart": true
+    }
+  },
+  {
+    "class": "right-up-corner",
+    "move": {
+      "top": true,
+      "right": true,
+      "bottom": false,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "horizontal-pipe",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "left-up-corner",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "right-up-corner",
+    "move": {
+      "top": true,
+      "right": true,
+      "bottom": false,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "right-deadend",
+    "move": {
+      "top": false,
+      "right": false,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "vertical-pipe",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": true,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "vertical-pipe",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": true,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "right-up-corner",
+    "move": {
+      "top": true,
+      "right": true,
+      "bottom": false,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "left-down-corner",
+    "move": {
+      "top": false,
+      "right": false,
+      "bottom": true,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "right-up-corner",
+    "move": {
+      "top": true,
+      "right": true,
+      "bottom": false,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "horizontal-pipe",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "blocked-top-crossroad",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": true,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "right-deadend",
+    "move": {
+      "top": false,
+      "right": false,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "right-down-corner",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": true,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "horizontal-pipe",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "left-up-corner",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "vertical-pipe",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": true,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "top-deadend",
+    "move": {
+      "top": false,
+      "right": false,
+      "bottom": true  ,
+      "left": false
+    },
+    "settings": {
+      "isStart": true
+    }
+  },
+  {
+    "class": "bottom-deadend",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": false  ,
+      "left": false
+    },
+    "settings": {
+      "isStart": true
+    }
+  },
+  {
+    "class": "right-down-corner",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": true,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "left-down-corner",
+    "move": {
+      "top": false,
+      "right": false,
+      "bottom": true,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "blocked-left-crossroad",
+    "move": {
+      "top": true,
+      "right": true,
+      "bottom": true,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "blocked-top-crossroad",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": true,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "left-up-corner",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "left-deadend",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": false  ,
+      "left": false
+    },
+    "settings": {
+      "isStart": true
+    }
+  },
+  {
+    "class": "horizontal-pipe",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "left-up-corner",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "right-up-corner",
+    "move": {
+      "top": true,
+      "right": true,
+      "bottom": false,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "horizontal-pipe",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "left-up-corner",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "right-up-corner",
+    "move": {
+      "top": true,
+      "right": true,
+      "bottom": false,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "left-up-corner",
+    "move": {
+      "top": true,
+      "right": false,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "right-up-corner",
+    "move": {
+      "top": true,
+      "right": true,
+      "bottom": false,
+      "left": false
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "horizontal-pipe",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "horizontal-pipe",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "horizontal-pipe",
+    "move": {
+      "top": false,
+      "right": true,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false
+    }
+  },
+  {
+    "class": "right-deadend",
+    "move": {
+      "top": false,
+      "right": false,
+      "bottom": false,
+      "left": true
+    },
+    "settings": {
+      "isStart": false,
+      "isPit": true
+    }
+  }
+]
